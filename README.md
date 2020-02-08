@@ -36,7 +36,7 @@ None.
 
 ### App Walkthough GIF
 
-<img src="https://imgur.com/qD0vLrZ.mp4" width=250><br>
+<img src="https://imgur.com/qD0vLrZ.gif" width=250><br>
 
 ### Notes
 None. 
